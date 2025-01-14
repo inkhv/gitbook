@@ -18,9 +18,7 @@
 Средняя: 400×720 мм \
 Маленькая: 300×540 мм
 
-
-
-<div align="left"><figure><img src="../../.gitbook/assets/btn_get.svg" alt="" width="155"><figcaption></figcaption></figure></div>
+#### [Заказать](https://www.wildberries.ru/)
 
 
 
