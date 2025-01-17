@@ -4,7 +4,7 @@ description: "Вокруг логотипа нужно оставлять сво
 
 # Охранные поля
 
-<div align="left"><figure><img src="../../.gitbook/assets/ohrannoe-pole-01.svg" alt="" width="219"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/ohrannoe-pole-01.svg" alt="" width="329"><figcaption></figcaption></figure></div>
 
 За величину **Х** берём размер окружности буквы **b** или **d**   \
 За величину **Y** — размер  точки строчной буквы **i**
