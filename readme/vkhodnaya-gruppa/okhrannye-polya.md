@@ -4,20 +4,24 @@ description: "Вокруг логотипа нужно оставлять сво
 
 # Охранные поля
 
-<div align="left"><figure><img src="../../.gitbook/assets/ohrannoe-pole-01.svg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/ohrannoe-pole-01.svg" alt="" width="219"><figcaption></figcaption></figure></div>
 
 За величину **Х** берём размер окружности буквы **b** или **d**   \
 За величину **Y** — размер  точки строчной буквы **i**
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/ohrannoe-pole-02.svg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/01_ohrannoe_pole_min.svg" alt=""><figcaption></figcaption></figure></div>
 
-1. Минимальное охранное поле  (сверху)
+### Минимальное охранное поле
 
-Вертикальное расстояние от низа вывески до базовой линии логотипа и от высоты прописных букв до верха вывески равно **Y**
+Вертикальное расстояние от низа вывески до базовой линии логотипа и от высоты прописных букв до верха вывески равно **Y**\
+\
 
- 2. Рекомендуемое охранное поле  (снижу)
+
+<figure><img src="../../.gitbook/assets/01_ohrannoe_pole_max.svg" alt=""><figcaption></figcaption></figure>
+
+### Рекомендуемое охранное поле
 
 Вертикальное расстояние от низа вывески до базовой линии логотипа равно **X**. От высоты прописных букв до верха вывески — **Х**+**Y**
 
