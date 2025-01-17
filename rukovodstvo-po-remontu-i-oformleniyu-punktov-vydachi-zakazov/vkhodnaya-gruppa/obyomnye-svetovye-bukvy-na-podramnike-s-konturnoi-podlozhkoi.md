@@ -1,6 +1,6 @@
 # Объёмные световые буквы на подрамнике с контурной подложкой
 
-<div align="left"><figure><img src="../../.gitbook/assets/wb-long-wrapper-02.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/01_viveska_na_podramnike_s_obvodkoi_long.svg" alt=""><figcaption></figcaption></figure></div>
 
 ### Стандартная вывеска
 
@@ -10,7 +10,9 @@
 
 
 
-<div align="left"><figure><img src="../../.gitbook/assets/wb-short-wrapper-02.png" alt=""><figcaption></figcaption></figure></div>
+
+
+<div align="left"><figure><img src="../../.gitbook/assets/01_viveska_na_podramnike_s_obvodkoi_short.svg" alt=""><figcaption></figcaption></figure></div>
 
 ### Короткая версия
 
@@ -19,4 +21,3 @@
 Маленькая: 300×520 мм
 
 #### [Заказать](https://www.wildberries.ru/)
-
