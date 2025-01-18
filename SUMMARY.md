@@ -45,3 +45,12 @@
       * [Клиентская зона](rukovodstvo-po-remontu-i-oformleniyu-punktov-vydachi-zakazov/interer/mebel-i-oborudovanie/klientskaya-zona.md)
       * [Склад](rukovodstvo-po-remontu-i-oformleniyu-punktov-vydachi-zakazov/interer/mebel-i-oborudovanie/sklad.md)
     * [Брендирование](rukovodstvo-po-remontu-i-oformleniyu-punktov-vydachi-zakazov/interer/brendirovanie.md)
+* [Главная](glavnaya.md)
+
+## Входная группа
+
+* [Page 2](vkhodnaya-gruppa/page-2.md)
+
+## Интерьер
+
+* [Page 3](interer/page-3.md)
