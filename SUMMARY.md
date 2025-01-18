@@ -5,7 +5,7 @@
 ## Входная группа
 
 * [Вывеска](vkhodnaya-gruppa/vyveska.md)
-* [Вывеска (landing)](vkhodnaya-gruppa/vyveska-landing.md)
+* [Вывеска монтаж](vkhodnaya-gruppa/vyveska-montazh.md)
 * [Входная группа](vkhodnaya-gruppa/vkhodnaya-gruppa/README.md)
   * [Список дел](vkhodnaya-gruppa/vkhodnaya-gruppa/spisok-del.md)
   * [Входная группа](vkhodnaya-gruppa/vkhodnaya-gruppa/vkhodnaya-gruppa.md)
@@ -42,6 +42,13 @@
   * [Где и как разместить навигацию](vkhodnaya-gruppa/vkhodnaya-gruppa/gde-i-kak-razmestit-navigaciyu.md)
   * [Вход в пункт выдачи](vkhodnaya-gruppa/vkhodnaya-gruppa/vkhod-v-punkt-vydachi.md)
   * [Электронный замок](vkhodnaya-gruppa/vkhodnaya-gruppa/elektronnyi-zamok.md)
+* [Входная группа](vkhodnaya-gruppa/vkhodnaya-gruppa-1.md)
+* [Панель- кронштейн](vkhodnaya-gruppa/panel-kronshtein.md)
+* [Лайтбокс с режимом работы](vkhodnaya-gruppa/laitboks-s-rezhimom-raboty.md)
+* [Табличка с режимом работы](vkhodnaya-gruppa/tablichka-s-rezhimom-raboty.md)
+* [Входная дверь](vkhodnaya-gruppa/vkhodnaya-dver.md)
+* [Навигация до ПВЗ](vkhodnaya-gruppa/navigaciya-do-pvz.md)
+* [Вход в пункт выдачи](vkhodnaya-gruppa/vkhod-v-punkt-vydachi.md)
 
 ## Планирование
 
