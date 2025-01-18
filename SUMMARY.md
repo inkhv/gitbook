@@ -50,11 +50,11 @@
 * [Навигация до ПВЗ](vkhodnaya-gruppa/navigaciya-do-pvz.md)
 * [Вход в пункт выдачи](vkhodnaya-gruppa/vkhod-v-punkt-vydachi.md)
 
-## Планирование
+## Планировка
 
-* [Клиентская зона](planirovanie/klientskaya-zona.md)
-* [Примеры пунктов выдачи](planirovanie/primery-punktov-vydachi.md)
-* [Склад](planirovanie/sklad.md)
+* [Клиентская зона](planirovka/klientskaya-zona.md)
+* [Примеры планировок](planirovka/primery-planirovok.md)
+* [Склад](planirovka/sklad.md)
 
 ## Ремонт
 
