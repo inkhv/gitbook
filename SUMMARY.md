@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Содержание](README.md)
-
 ## Входная группа
 
-* [Вывеска](vkhodnaya-gruppa/vyveska.md)
+* [Вывеска](README.md)
 * [Вывеска монтаж](vkhodnaya-gruppa/vyveska-montazh.md)
 * [Входная группа](vkhodnaya-gruppa/vkhodnaya-gruppa/README.md)
   * [Список дел](vkhodnaya-gruppa/vkhodnaya-gruppa/spisok-del.md)
