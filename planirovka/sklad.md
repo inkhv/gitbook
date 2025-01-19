@@ -1,6 +1,6 @@
 # Склад
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Зона хранения заказов
 2. Зона отдыха для менеджера
@@ -16,7 +16,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Стелажи
 2. Полки
@@ -27,7 +27,7 @@
 
 ## Зона хранения заказов: планировка
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выберите подходящий для вашей площади вариант и расставьте\
 стеллажи так, чтобы поместилось как можно больше, но менеджеру\
@@ -37,13 +37,13 @@
 
 Не перегораживайте стеллажами эвакуационные выходы, пожарные краны и электрические счётчики
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Зона отдыха
 
 
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
 Здесь менеджер сможет\
 оставить личные вещи,\
@@ -53,7 +53,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
 
 Поставьте стол и стулья так, чтобы они не загораживали стеллажи и были недалеко\
 от входа на склад — так менеджер сможет быстро выйти к посетителям
@@ -64,7 +64,7 @@
 
 ## Зона отдыха: мебель и оборудование
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
 
 Базовый набор:
 
@@ -80,7 +80,7 @@
 
 ## Туалетная комната
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -92,14 +92,14 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
 
 Открытая дверь не должна закрывать стеллажи\
 и мешать обзору
 
 ## Туалетная комната: оборудование
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 
 Базовый набор:
 
@@ -118,7 +118,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
 
 Не забудьте оставить место под инвентарь для уборки\
 и пустые коробки.
@@ -134,7 +134,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
 
 Коробки недалеко от входа
 
@@ -143,12 +143,12 @@
 
 ## Коробки в рабочей зоне
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
 
 Если склад занят, но перед ним есть угловой коридор, храните коробки там
 
 
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53) (1).png" alt=""><figcaption></figcaption></figure>
 
 Или выделите место недалеко от стола менеджера, но только если коробки не будут мешать покупателям

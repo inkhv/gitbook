@@ -1,6 +1,6 @@
-# Ремонт
+# Стены
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (68) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Раскладываем всё по полочкам для тех, кто делает ремонт в первый раз
 
@@ -33,7 +33,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (69) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Сделать закрытый вход
 2.
@@ -45,7 +45,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (70) (1).png" alt=""><figcaption></figcaption></figure>
 
 Вариант 1
 
@@ -63,7 +63,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (71) (1).png" alt=""><figcaption></figcaption></figure>
 
 Возведите перегородку, чтобы отделить склад. Оставьте проём\
 150 см.
@@ -79,92 +79,15 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72) (1).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы менеджеру было удобно заносить и выносить коробки, сместите перегородку на 150 см вглубь от основной стены. Длина перегородки — не меньше 120 см
 
-## Напольное покрытие
-
-Важно, чтобы напольное покрытие было ровным и не скользило.
-
-Если проходимость высокая, лучше использовать плитку или коммерческий линолеум
-
-
-
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
-
-## Плитка
-
-
-
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
-
-Керамогранит терраццо светло-серого цвета от Kerama Marazzi
-
-Размер: 600×600 мм
-
-Cerezit\
-цвет антрацит
-
-Затирка\
-цвет серый
-
-## Как положить плитку
-
-Начинайте от центра помещения, чтобы\
-по краям остались отрезки одинаковой ширины
-
-
-
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
-
-Не начинайте от угла — это нарушит симметрию&#x20;
-
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
-
-
-
-## Плинтус
-
-Рекомендуем сделать плинтус из плитки — так будет удобнее проводить влажную уборку
-
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
-
-Выберите ту же плитку, что и для пола Размер: 600×200 мм
-
-## Коммерческий линолеум
-
-IQ ZENITH,\
-оттенок 712
-
-!\[\[Pasted image 20250103194806.png]]
-
-## Как постелить линолеум
-
-!\[\[Pasted image 20250103194830.png]]
-
-Используйте специальный плинтус, чтобы завести линолеум на стену
-
-Когда будете рассчитывать, сколько линолеума нужно, прибавьте к значению высоту специального плинтуса и ещё\
-5 см на случай, если стены неровные
-
-Укладывайте линолеум так, чтобы сварной шов проходил по короткой стороне помещения или под мебелью
-
-## Альтернативный линолеум
-
-!\[\[Pasted image 20250103194912.png]]
-
-Tarkett Acczent Pro Aspect 2 Tarkett Primo Plus 315
-
-## Альтернативная плитка
-
-!\[\[Pasted image 20250103194944.png]]
-
-Vitra Newcon K945786R0001VTE0 60x60см, цвет: белый КЕРАМОПРО Alma Light Gray 60x60см, цвет: серый
+##
 
 ## Цвет краски
 
-!\[\[Pasted image 20250103195122.png]]
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 У нас общий цветовой код для всех пунктов выдачи.
 
@@ -177,15 +100,17 @@ Vitra Newcon K945786R0001VTE0 60x60см, цвет: белый КЕРАМОПРО
 
 Подойдёт только матовая моющаяся краска для стен
 
-## Потолок
+##
 
-!\[\[Pasted image 20250103195207.png]]
+&#x20;![](<../.gitbook/assets/image (6).png>)
 
 Потолок задаёт тон всему помещению. Сделайте его гладким и белым — так пункт выдачи будет казаться просторнее
 
 ## Способы отделки
 
-!\[\[Pasted image 20250103195250.png]]
+
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Потолок из гипсокартона Подойдет в случаях, когда помещение небольшое\
 и потолок нужно выравнивать
@@ -198,7 +123,9 @@ Vitra Newcon K945786R0001VTE0 60x60см, цвет: белый КЕРАМОПРО
 
 ## Цвет потолка
 
-!\[\[Pasted image 20250103195409.png]]
+
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Для открытого потолка\
 и гипсокартона подойдёт только белая краска.
@@ -206,11 +133,13 @@ Vitra Newcon K945786R0001VTE0 60x60см, цвет: белый КЕРАМОПРО
 Если ставите систему грильято, окрасьте потолок\
 и коммуникации в белый цвет
 
-!\[\[Pasted image 20250103195420.png]]
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## Стены
 
-!\[\[Pasted image 20250103202319.png]]
+
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Стены в клиентской зоне делятся на:\
 — фартук\
@@ -226,33 +155,45 @@ Vitra Newcon K945786R0001VTE0 60x60см, цвет: белый КЕРАМОПРО
 Выравнивайте фартук по высоте примерочных. Если кабинка 220 см,\
 то фартук будет начинаться на такой же высоте
 
-!\[\[Pasted image 20250103202401.png]]
+
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ## Открытый проход на склад
 
-!\[\[Pasted image 20250103202448.png]]
+
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы оформить открытый проход на склад, используйте краску акцентного цвета —\
 Dulux 88RB 37/328
 
-!\[\[Pasted image 20250103202434.png]]
+
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ## Двери
 
-!\[\[Pasted image 20250103234905.png]]
+
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Нужны для изолированных помещений, например туалетной комнаты
 
 Глухие, с наличниками и без декора
 
-!\[\[Pasted image 20250103234927.png]]
+
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Цвет в тон стены: белый или светло-серый.\
 Ручка простой формы: чёрная, серая или в цвет двери
 
 ## Батареи
 
-!\[\[Pasted image 20250103234729.png]]
+
+
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы в пункте выдачи не было слишком жарко или холодно, лучше установить алюминиевые батареи\
 с возможностью регулировать температуру.
@@ -262,7 +203,9 @@ Dulux 88RB 37/328
 
 ### Где разместить
 
-!\[\[Pasted image 20250103234808.png]]
+
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Установите батарею\
 под каждым окном выше уровня плинтуса.

@@ -8,7 +8,7 @@ description: Перед заказом нужно выбрать тип выве
 
 ## Объёмные световые буквы на подрамнике
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 #### Стандартная вывеска <a href="#standartnaya-vyveska" id="standartnaya-vyveska"></a>
 
@@ -21,7 +21,7 @@ description: Перед заказом нужно выбрать тип выве
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Короткая версия <a href="#korotkaya-versiya" id="korotkaya-versiya"></a>
 
@@ -38,7 +38,7 @@ description: Перед заказом нужно выбрать тип выве
 
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Стандартная вывеска <a href="#standartnaya-vyveska" id="standartnaya-vyveska"></a>
 
@@ -50,7 +50,7 @@ description: Перед заказом нужно выбрать тип выве
 
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Короткая версия <a href="#korotkaya-versiya" id="korotkaya-versiya"></a>
 
@@ -64,7 +64,7 @@ description: Перед заказом нужно выбрать тип выве
 
 ## Объёмные световые буквы на подложке
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -73,7 +73,7 @@ description: Перед заказом нужно выбрать тип выве
 
 Большая: 500×2780 мм  Средняя: 400×2220 мм  Маленькая: 300×1660 мм
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Короткая версия <a href="#korotkaya-versiya" id="korotkaya-versiya"></a>
 
@@ -87,12 +87,12 @@ description: Перед заказом нужно выбрать тип выве
 
 
 
-![](<../.gitbook/assets/image (8).png>)\
+![](<../.gitbook/assets/image (8) (1).png>)\
 Стандартная вывеска
 
 Большая: 500×3400 мм  Средняя: 400×2720 мм  Маленькая: 300×2040 мм
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Короткая версия <a href="#korotkaya-versiya" id="korotkaya-versiya"></a>
 
@@ -105,12 +105,12 @@ description: Перед заказом нужно выбрать тип выве
 \
 Вокруг логотипа нужно оставлять свободное пространство — охранные поля.  Чем больше «воздуха», тем выигрышнее смотрится вывеска.
 
-![](<../.gitbook/assets/image (10).png>)\
+![](<../.gitbook/assets/image (10) (1).png>)\
 
 
 За величину **Х** берём размер окружности буквы **b** или **d**   За величину **Y** — размер  точки строчной буквы **i**
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Рекомендуемое охранное поле <a href="#rekomenduemoe-okhrannoe-pole" id="rekomenduemoe-okhrannoe-pole"></a>
 

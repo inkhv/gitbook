@@ -6,14 +6,14 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Центральная ось вывески — на линии перекрытия между 1-м и 2-м этажами. Если на фасаде есть другие вывески, расположите свою на одном уровне с ними.\
 
 
 
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Вывеска должна висеть в границах помещения пункта выдачи
 
@@ -21,7 +21,7 @@
 
 ## Вывеска на фризе
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 Если на фасаде есть фриз, установите вывеску строго в его границах.    Не забудьте учесть охранные поля.
@@ -30,7 +30,7 @@
 
 ## Вывеска на козырье
 
-![](<../.gitbook/assets/image (15).png>)\
+![](<../.gitbook/assets/image (15) (1).png>)\
 
 
 Размещайте вывеску на козырьке, только если нельзя сделать это на фасаде: нет места или мешают архитектурные детали.
@@ -43,7 +43,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -75,6 +75,6 @@
 
 
 \
-![](<../.gitbook/assets/image (17).png>)[\
+![](<../.gitbook/assets/image (17) (1).png>)[\
 ](https://pvzwb.gitbook.io/pvz-wb/vkhodnaya-gruppa/vkhodnaya-gruppa/okhrannye-polya)
 

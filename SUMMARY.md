@@ -58,9 +58,10 @@
 
 ## Ремонт
 
-* [Ремонт](remont/remont.md)
-* [Электрика](remont/elektrika.md)
+* [Стены](remont/remont.md)
+* [Потолок и пол](remont/remont-1.md)
 * [Освещение](remont/klientskaya-zona.md)
+* [Электрика](remont/elektrika.md)
 * [Камеры и кондиционер](remont/sklad.md)
 * [Безопастность](remont/bezopastnost.md)
 

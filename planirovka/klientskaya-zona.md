@@ -6,7 +6,7 @@ description: Pasted image 20250108161702.png
 
 
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -18,7 +18,7 @@ description: Pasted image 20250108161702.png
 
 
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 1 Делим  помещение:\
 — склад: 50–70% площади\
@@ -45,7 +45,7 @@ description: Pasted image 20250108161702.png
 
 ## Как разделить площадь
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -59,7 +59,7 @@ description: Pasted image 20250108161702.png
 
 ## Планировка Что в клиентской зоне
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 — Рабочая зона&#x20;
 
@@ -73,7 +73,7 @@ description: Pasted image 20250108161702.png
 
 
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 Сценарий 1\
 Покупатель подходит к столу, получает заказ, уходит
@@ -91,14 +91,14 @@ description: Pasted image 20250108161702.png
 
 ## Рабочая зона
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 Стол менеджера отделяет склад\
 от клиентской зоны
 
 ## Рабочая зона: планировка
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 У стены, сбоку от входа на склад
 
@@ -108,7 +108,7 @@ description: Pasted image 20250108161702.png
 
 ## Рабочая зона: мебель
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 Базовый набор мебели:
 
@@ -130,7 +130,7 @@ description: Pasted image 20250108161702.png
 
 ## Зона ожидания
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 Одна из самых важных зон в пункте выдачи — сделайте её комфортной для клиентов
 
@@ -144,7 +144,7 @@ description: Pasted image 20250108161702.png
 
 
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 Общая зона для очереди за заказом и в примерочную
 
@@ -154,7 +154,7 @@ description: Pasted image 20250108161702.png
 
 ## Зона ожидания: мебель
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 Базовый набор:
 
@@ -172,7 +172,7 @@ description: Pasted image 20250108161702.png
 
 
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 Если позволяет планировка, зону выдачи и примерочные лучше разделить. Так покупатели в очереди не будут сталкиваться с теми, кто уже примеряет вещи
 
@@ -180,7 +180,7 @@ description: Pasted image 20250108161702.png
 
 
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 2 кабинки в ряд
 
@@ -190,7 +190,7 @@ description: Pasted image 20250108161702.png
 
 ## Зона примерочных: мебель
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -207,7 +207,7 @@ description: Pasted image 20250108161702.png
 
 ## Зона проверки
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -217,7 +217,7 @@ description: Pasted image 20250108161702.png
 
 
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 Рядом со столом выдачи, под камерами
 
@@ -231,7 +231,7 @@ description: Pasted image 20250108161702.png
 
 
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 Базовый набор:
 
@@ -252,7 +252,7 @@ description: Pasted image 20250108161702.png
 
 
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы покупателям с маленькими детьми\
 было удобно, предусмотрите детскую зону
@@ -261,7 +261,7 @@ description: Pasted image 20250108161702.png
 
 
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 Если места мало, детскую зону можно не делать
 
@@ -269,7 +269,7 @@ description: Pasted image 20250108161702.png
 
 ## Детская зона: мебель
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 Отдавайте предпочтение безопасной мебели:\
 с закруглёнными углами вместо острых, устройчивой и прочной
